@@ -2,5 +2,5 @@
 
 
 
-# Postgres user = hoji
-# Postgres user_password = hoji2609
+# Postgres user = akrom
+# Postgres user_password = akrom_1102
